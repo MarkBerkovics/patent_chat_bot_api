@@ -1,0 +1,10 @@
+python_dotenv
+pysqlite3-binary
+typing_extensions
+langchain
+langchain_core
+langchain_openai
+langchain_chroma
+langgraph
+fastapi
+uvicorn
